@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aliasgar Sogiawala!
 🚀 Passionate Programmer | To be Full Stack Developer | Tech Enthusiast
 
-🔭 I’m currently working on: **Planify - An AI integrated Task Manager WebApp**<br>
+🔭 Currently a student at Jai Hind College!<br>
 🌱 I’m currently learning: **Next.js, Three.js , Jupyter Notebook**<br>
 📫 Reach me at: **mailto:itsaliasgar18@email.com**
 
