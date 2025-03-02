@@ -33,6 +33,10 @@
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark)
 
+## 🧠 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
