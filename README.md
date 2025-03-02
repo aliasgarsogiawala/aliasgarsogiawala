@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aliasgar Sogiawala!
-🚀 Passionate Developer | To be Full Stack Developer | Tech Enthusiast
+🚀 Passionate Programmer | To be Full Stack Developer | Tech Enthusiast
 
 🔭 I’m currently working on: **Planify - An AI integrated Task Manager WebApp**<br>
 🌱 I’m currently learning: **Next.js, Three.js , Jupyter Notebook**<br>
