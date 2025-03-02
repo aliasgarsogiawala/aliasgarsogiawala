@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on: **Planify - An AI integrated Task Manager WebApp**<br>
 🌱 I’m learning: **Next.js, Three.js , Jupyter Notebook**<br>
-📫 Reach me at: **itsaliasgar18@gmail.com(mailto:itsaliasgar18@email.com)**
+📫 Reach me at: **mailto:itsaliasgar18@email.com**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue)
 
