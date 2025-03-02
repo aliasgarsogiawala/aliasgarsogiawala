@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Aliasgar Sogiawala!
 🚀 Passionate Programmer | To be Full Stack Developer | Tech Enthusiast
 
+![Visitor Count](https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue)
+
 🔭 Currently a student at Jai Hind College!<br>
 🌱 I’m currently learning: **Next.js, Three.js , Jupyter Notebook**<br>
 📫 Reach me at: **mailto:itsaliasgar18@email.com**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue)
 
 ## 🚀 Tech Stack
 
