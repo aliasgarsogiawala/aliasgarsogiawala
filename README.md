@@ -2,7 +2,7 @@
 🚀 Passionate Developer | To be Full Stack Developer | Tech Enthusiast
 
 🔭 I’m currently working on: **Planify - An AI integrated Task Manager WebApp**<br>
-🌱 I’m learning: **Next.js, Three.js , Jupyter Notebook**<br>
+🌱 I’m currently learning: **Next.js, Three.js , Jupyter Notebook**<br>
 📫 Reach me at: **mailto:itsaliasgar18@email.com**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue)
