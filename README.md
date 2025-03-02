@@ -32,12 +32,9 @@
 ![Convex](https://img.shields.io/badge/Convex-5E00EF?style=for-the-badge&logo=convex&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🔥 GitHub Streak
-
+## 🔥 GitHub Streak & 📊 Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=aliasgarsogiawala&theme=radical&hide_border=true)
-
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&show_icons=true&theme=radical)
 
 ## ✍️ Latest Blog Post
 - [🚀 Struggles of Being a Freelancing Student](https://medium.com/@aliasgarsogiawala/struggles-of-being-a-freelancing-student-e04701a2a2ec)
