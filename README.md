@@ -26,6 +26,10 @@
 ![Convex](https://img.shields.io/badge/Convex-5E00EF?style=for-the-badge&logo=convex&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aliasgarsogiawala&theme=radical&hide_border=true)
+
 
 
 <!--
