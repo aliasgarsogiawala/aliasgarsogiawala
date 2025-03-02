@@ -31,7 +31,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=aliasgarsogiawala&theme=radical&hide_border=true)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aliasgarsogiawala&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark)
+
 
 
 
