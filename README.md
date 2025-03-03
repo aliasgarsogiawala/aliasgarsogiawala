@@ -48,6 +48,12 @@
 ### 🚀 Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+## 💻 Coding Profiles
+
+[![Codedex](https://img.shields.io/badge/Codedex-000000?style=for-the-badge)](https://www.codedex.com/aliasgar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aliasgarsogiawala)
+
+
 ## 🔥 GitHub Streak & 📊 Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=aliasgarsogiawala&theme=radical&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&show_icons=true&theme=radical)
