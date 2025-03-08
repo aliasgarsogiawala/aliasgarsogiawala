@@ -37,6 +37,8 @@
 ### 🔐 Authentication & Security
 ![Clerk](https://img.shields.io/badge/Clerk-1F2937?style=for-the-badge&logo=clerk&logoColor=white)
 ![Auth.js](https://img.shields.io/badge/Auth.js-2F4858?style=for-the-badge&logo=auth0&logoColor=white)
+![SuperTokens](https://img.shields.io/badge/SuperTokens-3178C6?style=for-the-badge&logo=supertokens&logoColor=white)
+
 
 ### 📊 Data & AI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
