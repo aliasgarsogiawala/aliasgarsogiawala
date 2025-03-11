@@ -1,4 +1,4 @@
-# Sup, I'm Aliasgar Sogiawala!
+# Sup, I'm Aliasgar Sogiawala
 🚀 Passionate Programmer | To be Full Stack Developer | Tech Enthusiast
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue)
