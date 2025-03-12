@@ -74,6 +74,9 @@
 ## 🧠 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Pixel Fire](https://raw.githubusercontent.com/yourusername/yourrepo/main/fire-animation.svg)
+
+
 
 
 
