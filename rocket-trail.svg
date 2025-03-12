@@ -1,0 +1,30 @@
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @keyframes moveRocket {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(500px); }
+        }
+        @keyframes fireTrail {
+            0% { opacity: 1; transform: scale(1); }
+            100% { opacity: 0; transform: scale(1.5); }
+        }
+        .rocket {
+            animation: moveRocket 5s linear infinite alternate;
+        }
+        .flame {
+            animation: fireTrail 0.5s linear infinite alternate;
+        }
+    </style>
+    
+    <g class="rocket" transform="translate(50,100)">
+        <!-- Rocket Body -->
+        <rect x="0" y="-10" width="40" height="20" fill="gray" stroke="black" stroke-width="2"/>
+        <!-- Rocket Nose -->
+        <polygon points="40,-10 50,0 40,10" fill="red" stroke="black" stroke-width="2"/>
+        <!-- Fire Trail -->
+        <g class="flame" transform="translate(-10,0)">
+            <polygon points="0,-5 -10,0 0,5" fill="orange"/>
+            <polygon points="0,-3 -7,0 0,3" fill="yellow"/>
+        </g>
+    </g>
+</svg>
