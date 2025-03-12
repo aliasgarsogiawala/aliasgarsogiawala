@@ -68,6 +68,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=aliasgarsogiawala&theme=radical&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&show_icons=true&theme=radical)
 
+<img src="https://raw.githubusercontent.com/aliasgarsogiawala/aliasgarsogiawala/main/rocket-trail.svg" alt="Rocket Trail Animation" width="600">
+
 ## ✍️ Latest Blog Post
 - [🚀 Struggles of Being a Freelancing Student](https://medium.com/@aliasgarsogiawala/struggles-of-being-a-freelancing-student-e04701a2a2ec)
 
