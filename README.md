@@ -58,10 +58,10 @@
 ![Hostinger](https://img.shields.io/badge/Hostinger-673ab7?style=for-the-badge&logo=hostinger&logoColor=white)
 
 
-## 💻 Coding Profiles
+<!-- ## 💻 Coding Profiles
 
 [![Codedex](https://img.shields.io/badge/Codedex-000000?style=for-the-badge)](https://www.codedex.com/aliasgar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aliasgarsogiawala)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aliasgarsogiawala) -->
 
 
 ## 🔥 GitHub Streak & 📊 Stats
