@@ -33,6 +33,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-5E00EF?style=for-the-badge&logo=convex&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🔐 Authentication & Security
 ![Clerk](https://img.shields.io/badge/Clerk-1F2937?style=for-the-badge&logo=clerk&logoColor=white)
