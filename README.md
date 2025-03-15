@@ -1,4 +1,8 @@
-# Sup, I'm Aliasgar Sogiawala!
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=663399&width=1000&lines=🔮+I'm+Aliasgar+Sogiawala,+crafting+the+future+one+commit+at+a+time." alt="Typing SVG" />
+</p>
+
+
 🚀 Passionate Programmer | To be Full Stack Developer | Tech Enthusiast
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue)
