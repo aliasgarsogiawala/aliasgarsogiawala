@@ -82,8 +82,7 @@
 ## ✍️ Latest Blog Post
 - [🚀 Struggles of Being a Freelancing Student](https://medium.com/@aliasgarsogiawala/struggles-of-being-a-freelancing-student-e04701a2a2ec)
 
-## 🧠 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
