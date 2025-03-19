@@ -5,6 +5,12 @@
 
 🚀 Passionate Programmer | To be Full Stack Developer | Tech Enthusiast
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF7E5F&center=true&vCenter=true&width=1000&lines=🚀+Co-Founder+of+Tech+Horizons+Club" alt="Typing SVG" />
+</p>
+
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue)
 
 🔭 Currently a student at Jai Hind College!<br>
