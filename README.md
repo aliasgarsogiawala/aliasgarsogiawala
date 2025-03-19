@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=663399&width=1000&lines=🔮+I'm+Aliasgar+Sogiawala,+crafting+the+future+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffca38&width=1000&lines=🔮+I'm+Aliasgar+Sogiawala,+crafting+the+future+one+commit+at+a+time." alt="Typing SVG" />
 </p>
 
 
