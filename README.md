@@ -44,6 +44,9 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-5E00EF?style=for-the-badge&logo=convex&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ### 🔐 Authentication & Security
 ![Clerk](https://img.shields.io/badge/Clerk-1F2937?style=for-the-badge&logo=clerk&logoColor=white)
@@ -55,8 +58,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![R Studio](https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Trae AI](https://img.shields.io/badge/Trae_AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![Trae AI](https://img.shields.io/badge/Trae-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 
 ### 🎨 Design & UI/UX
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
