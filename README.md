@@ -13,7 +13,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue)
 
-🔭 Currently a student at Jai Hind College!<br>
+🔭 Currently a student pursuing Bsc IT<br>
 🌱 I’m currently learning: **Next.js, Three.js**<br>
 
 ## 🔗 Connect with Me
