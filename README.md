@@ -86,6 +86,8 @@
   <img src="https://streak-stats.demolab.com?user=aliasgarsogiawala&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgarsogiawala&repo=aliasgarsogiawala&layout=compact" /> -->
 </p>
 
 ---
