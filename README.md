@@ -19,7 +19,7 @@
 - 🎓 BSc IT Student  
 - 🔭 Exploring: `The World of OPEN SOURCE`  
 - 💡 Building cool projects, one at a time.
-- 🌐 Websites Built : <a href="www.zillionite.com">Zillionite.com</a> <a href="www.toursafe.in">Toursafe.in</a>
+- 🌐 Websites Built : <a href="https://zillionite.com/">Zillionite.com</a> <a href="www.toursafe.in">Toursafe.in</a>
 
 ---
 
