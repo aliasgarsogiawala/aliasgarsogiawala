@@ -23,10 +23,6 @@
   <b>Exploring Cloud | AI | DevOps Horizons</b>
 </p>
 
-
-
-
-
 ---
 
 ### 🎓 Currently
@@ -100,13 +96,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aliasgarsogiawala&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgarsogiawala&repo=aliasgarsogiawala&layout=compact" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&show_icons=true&theme=tokyonight" alt="Aliasgar's github stats" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgarsogiawala&theme=tokyonight" alt="Github Streak" />
+</p>
 <!-- ## ✍️ Latest Blog Post
 - 🚀 [Struggles of Being a Freelancing Student](https://medium.com/@aliasgarsogiawala/struggles-of-being-a-freelancing-student-e04701a2a2ec)
 -->
