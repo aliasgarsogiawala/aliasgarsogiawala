@@ -14,8 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff,00e676&height=200&section=header&text=Aliasgar%20Sogiawala%20|%20Architect%20of%20Dreams%20and%20Digital%20Realities&fontSize=30&fontAlignY=40&desc=Exploring%20Cloud%20%7C%20AI%20%7C%20DevOps%20Horizons&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff,00e676&height=200&section=header&text=Aliasgar%20Sogiawala%20|%20Architect%20of%20Dreams%20and%20Digital%20Realities&fontColor=ffffff&fontSize=30&fontAlignY=40&desc=Exploring%20Cloud%20%7C%20AI%20%7C%20DevOps%20Horizons&descSize=18&descAlignY=60&backgroundColor=0d1117" />
 </p>
+
 
 
 ---
