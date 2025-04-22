@@ -30,11 +30,11 @@
 
 <p align="center">
   <a href="https://zillionite.com/">
-    <img src="[https://zillionite.com/logo192.png](https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/Circular-Logo.png)" alt="Zillionite" height="50" />
+    <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/Circular-Logo.png" alt="Zillionite" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://toursafe.in/">
-    <img src="https://toursafe.in/logo192.png" alt="Toursafe" height="50" />
+    <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/toursafe.png" alt="Toursafe" height="50" />
   </a>
 </p>
 
