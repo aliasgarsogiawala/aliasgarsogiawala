@@ -1,12 +1,11 @@
-<h1 align="center">
-  🔮 Hi , I'm Aliasgar Sogiawala
-</h1>
+<h1 align="center">🔮 Hi, I'm Aliasgar Sogiawala</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffca38&center=true&width=1000&lines=Crafting+the+future,+one+commit+at+a+time." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Passionate Programmer • Aspiring Full Stack Developer • Tech Enthusiast  
+  Passionate Programmer • Aspiring Full Stack Developer • Tech Enthusiast
 </p>
 
 <p align="center">
@@ -17,28 +16,38 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Aliasgar%20Sogiawala%20%7C%20Architect%20of%20Digital%20Realities&fontSize=30&fontColor=ffffff&fontAlignY=40&animation=twinkling" />
 </p>
 
-
-
 <p align="center">
   <b>Exploring Cloud | AI | DevOps Horizons</b>
 </p>
 
 ---
 
-### 🎓 Currently
+## 🎓 Currently
+
 - 🎓 BSc IT Student  
-- 🔭 Exploring: `The World of OPEN SOURCE`  
+- 🔭 Exploring `The World of OPEN SOURCE`  
 - 💡 Building cool projects, one at a time.
-- 🌐 Websites Built : <a href="https://zillionite.com/">Zillionite.com</a> <a href="https://toursafe.in/">Toursafe.in</a>
+
+<p align="center">
+  <a href="https://zillionite.com/">
+    <img src="https://zillionite.com/logo192.png" alt="Zillionite" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://toursafe.in/">
+    <img src="https://toursafe.in/logo192.png" alt="Toursafe" height="50" />
+  </a>
+</p>
 
 ---
 
 ## 🔗 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/551115955510444042)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliasgarsogiawala)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliasgar.sogiawala)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aliasgarsogiawala)
+<p align="center">
+  <a href="https://discord.com/users/551115955510444042"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aliasgarsogiawala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/aliasgar.sogiawala"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -72,7 +81,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Trae AI](https://img.shields.io/badge/Trae-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 
 ### 🎨 UI/UX & Design
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
@@ -99,21 +107,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&show_icons=true&theme=tokyonight" alt="Aliasgar's github stats" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgarsogiawala&theme=tokyonight" alt="Github Streak" />
 </p>
-<!-- ## ✍️ Latest Blog Post
-- 🚀 [Struggles of Being a Freelancing Student](https://medium.com/@aliasgarsogiawala/struggles-of-being-a-freelancing-student-e04701a2a2ec)
--->
-
-
-
-<!-- ## ✍️ Latest Blog Post
-- 🚀 [Struggles of Being a Freelancing Student](https://medium.com/@aliasgarsogiawala/struggles-of-being-a-freelancing-student-e04701a2a2ec)
--->
-
-
-<!--
-**aliasgarsogiawala/aliasgarsogiawala** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
