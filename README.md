@@ -27,8 +27,8 @@
 - 🎓 BSc IT Student  
 - 🔭 Exploring `The World of OPEN SOURCE`  
 - 💡 Building cool projects, one at a time.
+- 🌐 Websites Built : 
 
-<p align="center">
   <a href="https://zillionite.com/">
     <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/Circular-Logo.png" alt="Zillionite" height="50" />
   </a>
@@ -36,7 +36,7 @@
   <a href="https://toursafe.in/">
     <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/toursafe.png" alt="Toursafe" height="50" />
   </a>
-</p>
+
 
 ---
 
