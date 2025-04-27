@@ -8,6 +8,9 @@
   Passionate Programmer • Aspiring Full Stack Developer • Tech Enthusiast
 </p>
 
+📍 *Exploring Cloud | AI | DevOps Horizons*
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue" alt="Visitor Count"/>
 </p>
@@ -16,7 +19,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Aliasgar%20Sogiawala%20%7C%20Architect%20of%20Digital%20Realities&fontSize=24&fontAlign=center)
 
-📍 *Exploring Cloud | AI | DevOps Horizons*
 
 </div>
 
