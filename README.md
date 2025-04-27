@@ -7,9 +7,9 @@
 <p align="center">
   Passionate Programmer • Aspiring Full Stack Developer • Tech Enthusiast
 </p>
-
+<div align="center">
 📍 *Exploring Cloud | AI | DevOps Horizons*
-
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue" alt="Visitor Count"/>
