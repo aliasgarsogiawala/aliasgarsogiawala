@@ -1,4 +1,8 @@
 <h1 align="center">🔮 Hi, I'm Aliasgar Sogiawala</h1>
+<p align="center">
+  🌐 <a href="https://aliasgar.vercel.app/" target="_blank"><strong>Check out my Portfolio</strong></a> • ☕ <a href="https://www.buymeacoffee.com/aliasgar" target="_blank">Buy me a coffee</a>
+</p>
+
 <!--
 <p align="center">
 <a href="https://aliasgar.vercel.app/">Portfolio</a>
@@ -26,7 +30,7 @@
 
 </div>
 
----
+
 
 ## 🚀 Check Out My Startup!
 
@@ -39,7 +43,7 @@
 > *A community and platform where technology meets imagination.*  
 > *Join the journey, build the future.*
 
----
+
 
 ## 📌 Currently
 
@@ -58,7 +62,7 @@
     </a>
   </p>
 
----
+
 
 ## 🔗 Connect with Me
 
@@ -69,7 +73,7 @@
   <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -138,7 +142,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673ab7?style=for-the-badge&logo=hostinger&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
