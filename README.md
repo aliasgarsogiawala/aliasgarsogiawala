@@ -1,7 +1,6 @@
 <h1 align="center">🔮 Hi, I'm Aliasgar Sogiawala</h1>
 <p align="center">
-  🌐 <a href="https://aliasgar.vercel.app/" target="_blank"><strong>Check out my Portfolio</strong></a> • ☕ <a href="https://www.buymeacoffee.com/aliasgar" target="_blank">Buy me a coffee</a>
-</p>
+  🌐 <a href="https://aliasgar.vercel.app/" target="_blank"><strong>Check out my Portfolio</strong></a> 
 
 <!--
 <p align="center">
