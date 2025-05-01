@@ -152,3 +152,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgarsogiawala&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark-dimmed&custom_title=Aliasgar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
