@@ -145,6 +145,7 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgarsogiawala&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
@@ -158,3 +159,10 @@
 </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark-dimmed&custom_title=Aliasgar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+> 🛠️ This live GitHub commit widget was handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README!
+![Last 3 Commits](https://last-3-commits.vercel.app/api/commit-graph?user=aliasgarsogiawala)
+
+
+
