@@ -1,4 +1,4 @@
-<h1 align="center">🔮 Hi, I'm Aliasgar Sogiawala</h1>
+<h1 align="center">🌐 Hi, I'm Aliasgar Sogiawala</h1>
 <p align="center">
   🌐 <a href="https://aliasgar.vercel.app/" target="_blank"><strong>Check out my Portfolio</strong></a> 
 
