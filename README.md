@@ -30,6 +30,35 @@
 </div>
 
 
+## 🚀 My Company – Techtics
+
+<p align="center">
+  <a href="https://techtics.in" target="_blank">
+    <img src="https://techtics.in/favicon.ico" width="80" alt="Techtics Logo" />
+  </a>
+</p>
+
+<h3 align="center">✨ Techtics – Innovation by Design</h3>
+
+<p align="center">
+  <a href="https://techtics.in" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Site-Techtics.in-0dcaf0?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:hello@techtics.in">
+    <img src="https://img.shields.io/badge/Contact-info@techtics.in-success?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+> ⚙️ **Techtics** is a tech-forward company providing  
+> - 🌐 **Web Services**  
+> - 🔍 **SEO Optimization**  
+> - 💻 **SaaS Solutions**  
+> - 🤖 **AI & API Tools**  
+> all tailored to help businesses innovate and scale.
+
+> ⏳ Currently in **launch phase** — [Join the waitlist](https://techtics.in) and stay tuned for what’s next.
+
+<br>
 
 ## 🚀 Check Out My Startup!
 
