@@ -88,6 +88,10 @@
     <a href="https://toursafe.in/">
       <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/toursafe.png" alt="Toursafe" height="50" />
     </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://tedhhorizonsclub.com/">
+      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/enhanced_logo.png" alt="Toursafe" height="50" />
+    </a>
   </p>
 
 
