@@ -1,7 +1,9 @@
 <h1 align="center">🌐 Hi, I'm Aliasgar Sogiawala</h1>
-<p align="center">
-  🌐 <a href="https://aliasgar.vercel.app/" target="_blank"><strong>Check out my Portfolio</strong></a> 
-
+<div align="center">
+  <a href="https://aliasgar.vercel.app">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Visit Portfolio" />
+  </a>
+</div>
 
 <!--
 <p align="center">
