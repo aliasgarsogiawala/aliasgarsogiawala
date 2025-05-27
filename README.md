@@ -2,6 +2,7 @@
 <p align="center">
   🌐 <a href="https://aliasgar.vercel.app/" target="_blank"><strong>Check out my Portfolio</strong></a> 
 
+
 <!--
 <p align="center">
 <a href="https://aliasgar.vercel.app/">Portfolio</a>
@@ -28,6 +29,30 @@
 📍 *Exploring Cloud | AI | DevOps Horizons*
 
 </div>
+
+
+## 📌 Currently
+
+- 🎓 **BSc IT Student**  
+- 💡 Exploring **The World of OPEN SOURCE**  
+- 🛠 Building cool projects, one at a time
+- 🏆 <a href="https://paradocc.vercel.app" target="_blank"><strong>1x Hackathon Winner</strong></a>  
+- 💬 Always down to talk tech, startups, and creative ideas
+- 🌐 **Websites Built**:
+  <p align="center">
+    <a href="https://zillionite.com/">
+      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/Circular-Logo.png" alt="Zillionite" height="50" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://toursafe.in/">
+      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/toursafe.png" alt="Toursafe" height="50" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://tedhhorizonsclub.com/">
+      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/enhanced_logo.png" alt="Toursafe" height="50" />
+    </a>
+  </p>
+
 
 
 ## 🚀 My Company – Techtics
@@ -73,26 +98,6 @@
 
 
 
-## 📌 Currently
-
-- 🎓 **BSc IT Student**  
-- 💡 Exploring **The World of OPEN SOURCE**  
-- 🛠 Building cool projects, one at a time  
-- 💬 Always down to talk tech, startups, and creative ideas
-- 🌐 **Websites Built**:
-  <p align="center">
-    <a href="https://zillionite.com/">
-      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/Circular-Logo.png" alt="Zillionite" height="50" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://toursafe.in/">
-      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/toursafe.png" alt="Toursafe" height="50" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://tedhhorizonsclub.com/">
-      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/enhanced_logo.png" alt="Toursafe" height="50" />
-    </a>
-  </p>
 
 
 
@@ -199,6 +204,7 @@
 
 ## Like my work? Support me 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aliasgarsogiawala)
+
 
 
 
