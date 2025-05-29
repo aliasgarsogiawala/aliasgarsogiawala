@@ -203,6 +203,9 @@
 > 🛠️ This live GitHub commit widget was handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README!
 ![Last 3 Commits](https://last-3-commits.vercel.app/api/commit-graph?user=aliasgarsogiawala)
 
+> Visualize the hours and days you commit the most . Handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README!
+![GitHub Punch Card](https://punchcardwidget.vercel.app/api/punchcard?user=aliasgarsogiawala)
+
 
 ## Like my work? Support me 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aliasgarsogiawala)
