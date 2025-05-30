@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Passionate Programmer • Aspiring Full Stack Developer • Tech Enthusiast
+  Passionate Programmer • Aspiring Full Stack Developer • Tech/FinTech Enthusiast 
 </p>
 
 
@@ -114,6 +114,8 @@
 
 
 
+
+
 ## 🧠 Tech Stack
 
 ### 🌐 Frontend
@@ -182,6 +184,11 @@
 ![Hostinger](https://img.shields.io/badge/Hostinger-673ab7?style=for-the-badge&logo=hostinger&logoColor=white)
 
 
+## LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aliasgarsogiawala)](https://leetcode.com/aliasgarsogiawala)
+
+
 
 ## 📊 GitHub Stats
 
@@ -198,7 +205,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgarsogiawala&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark-dimmed&custom_title=Aliasgar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark-dimmed&custom_title=Aliasgar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 > 🛠️ This live GitHub commit widget was handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README!
 ![Last 3 Commits](https://last-3-commits.vercel.app/api/commit-graph?user=aliasgarsogiawala)
