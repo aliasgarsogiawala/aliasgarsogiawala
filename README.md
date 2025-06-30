@@ -40,7 +40,7 @@
 - 🛠 Building cool projects, one at a time
 - 🏆 <a href="https://paradocc.vercel.app" target="_blank"><strong>1x Hackathon Winner</strong></a>  
 - 💬 Always down to talk tech, startups, and creative ideas
-- 🌐 **Websites Built**:
+- 🌐 **Major Websites Built**:
   <p align="center">
     <a href="https://zillionite.com/">
       <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/Circular-Logo.png" alt="Zillionite" height="50" />
