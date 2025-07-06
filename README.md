@@ -42,18 +42,18 @@
 - 💬 Always down to talk tech, startups, and creative ideas
 - 🌐 **Major Websites Built**:
   <p align="center">
-    <a href="https://zillionite.com/">
-      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/Circular-Logo.png" alt="Zillionite" height="50" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://toursafe.in/">
-      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/toursafe.png" alt="Toursafe" height="50" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://techhorizonsclub.com/">
-      <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/enhanced_logo.png" alt="Toursafe" height="50" />
-    </a>
-  </p>
+  <a href="https://zillionite.com/">
+    <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/Circular-Logo.png" alt="Zillionite" width="80" height="80" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://toursafe.in/">
+    <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/toursafe.png" alt="Toursafe" width="80" height="80" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://techhorizonsclub.com/">
+    <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/enhanced_logo.png" alt="Tech Horizons Club" width="80" height="80" />
+  </a>
+</p>
 
 
 
