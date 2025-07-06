@@ -184,11 +184,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673ab7?style=for-the-badge&logo=hostinger&logoColor=white)
 
-
+<!--
 ## LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/aliasgarsogiawala)](https://leetcode.com/aliasgarsogiawala)
-
+-->
 
 
 ## 📊 GitHub Stats
