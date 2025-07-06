@@ -56,17 +56,23 @@
 </p>
 
 
+## 🔗 Connect with Me
 
-## 🚀 My Company – Techtics
+<p align="center">
+  <a href="mailto:itsaliasgar18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/551115955510444042"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aliasgarsogiawala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/aliasgar.sogiawala"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+## 🚀 Director – Techtics
 
 <p align="center">
   <a href="https://techtics.in" target="_blank">
     <img src="https://techtics.in/favicon.ico" width="80" alt="Techtics Logo" />
   </a>
 </p>
-
-<h3 align="center">✨ Techtics – Innovation by Design</h3>
-
 <p align="center">
   <a href="https://techtics.in" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Site-Techtics.in-0dcaf0?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -87,7 +93,7 @@
 
 <br>
 
-## 🚀 Check Out My Startup!
+## 🚀 Co Founder - Tech Horizons Club!
 
 <p align="center">
   <a href="https://github.com/th-club" target="_blank">
@@ -97,22 +103,6 @@
 
 > *A community and platform where technology meets imagination.*  
 > *Join the journey, build the future.*
-
-
-
-
-
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:itsaliasgar18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/551115955510444042"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aliasgarsogiawala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/aliasgar.sogiawala"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
 
 
 
@@ -209,10 +199,12 @@
 
 <!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark-dimmed&custom_title=Aliasgar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-> 🛠️ This live GitHub commit widget was handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README!
+## 🛠️ Widgets I built
+<!--
+> 🛠️ This live GitHub commit widget was handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README! -->
 ![Last 3 Commits](https://last-3-commits.vercel.app/api/commit-graph?user=aliasgarsogiawala)
 
-> Visualize the hours and days you commit the most . Handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README!
+> Visualize the hours and days you commit the most . 
 ![GitHub Punch Card](https://punchcardwidget.vercel.app/api/punchcard?user=aliasgarsogiawala)
 
 
