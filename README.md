@@ -196,8 +196,8 @@
 
 ## 🛠️ Widgets I built
 <!--
-> 🛠️ This live GitHub commit widget was handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README! -->
-![Last 3 Commits](https://last-3-commits.vercel.app/api/commit-graph?user=aliasgarsogiawala)
+> 🛠️ This live GitHub commit widget was handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README! 
+![Last 3 Commits](https://last-3-commits.vercel.app/api/commit-graph?user=aliasgarsogiawala) -->
 
 > Visualize the hours and days you commit the most . 
 ![GitHub Punch Card](https://punchcardwidget.vercel.app/api/punchcard?user=aliasgarsogiawala)
