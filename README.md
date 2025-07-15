@@ -195,9 +195,9 @@
 <!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark-dimmed&custom_title=Aliasgar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ## 🛠️ Widgets I built
-<!--
+
 > 🛠️ This live GitHub commit widget was handcrafted by [@aliasgarsogiawala](https://github.com/aliasgarsogiawala) — plug it into your own README! 
-![Last 3 Commits](https://last-3-commits.vercel.app/api/commit-graph?user=aliasgarsogiawala) -->
+![Last 3 Commits](https://last-3-commits.vercel.app/api/commit-graph?user=aliasgarsogiawala) 
 
 > Visualize the hours and days you commit the most . 
 ![GitHub Punch Card](https://punchcardwidget.vercel.app/api/punchcard?user=aliasgarsogiawala)
