@@ -15,9 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffca38&center=true&width=1000&lines=Crafting+the+future,+one+commit+at+a+time." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  Passionate Programmer • Aspiring Full Stack Developer • Tech/FinTech Enthusiast 
-</p>
+
 
 
 <p align="center">
@@ -184,13 +182,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&show_icons=true&theme=tokyonight" alt="Aliasgar's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgarsogiawala&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![Aliasgar's Stats](https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true&show=reviews,prs_merged&title_color=FFAE42&ring_color=FFAE42) 
+
+
 
 <!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark-dimmed&custom_title=Aliasgar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
