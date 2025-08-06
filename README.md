@@ -64,36 +64,21 @@
   <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-## 🚀 Director – Techtics
+## 🚀 Roles & Leadership
 
 <p align="center">
   <a href="https://techtics.in" target="_blank">
-    <img src="https://techtics.in/favicon.ico" width="80" alt="Techtics Logo" />
+    <img src="https://img.shields.io/badge/Techtics-Building%20Innovations-0dcaf0?style=for-the-badge&logo=vercel&logoColor=white" alt="Techtics" />
   </a>
-</p>
-<p align="center">
-  <a href="https://techtics.in" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Site-Techtics.in-0dcaf0?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:hello@techtics.in">
-    <img src="https://img.shields.io/badge/Contact-info@techtics.in-success?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-> ⏳ Currently in **launch phase** — [Join the waitlist](https://techtics.in) and stay tuned for what’s next.
-
-<br>
-
-## 🚀 Co Founder - Tech Horizons Club!
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/th-club" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Horizons%20Club-Building%20Futures-9cf?style=for-the-badge&logo=github" alt="Tech Horizons Club" />
   </a>
 </p>
 
-> *A community and platform where technology meets imagination.*  
-> *Join the journey, build the future.*
+> **Director** – [Techtics](https://techtics.in) | ⏳ *Currently in launch phase* — [Join the waitlist](https://techtics.in)  
+> **Co-Founder** – [Tech Horizons Club](https://github.com/th-club) | *A community where technology meets imagination. Join the journey, build the future.*
+
 
 
 
