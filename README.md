@@ -64,24 +64,6 @@
   <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-## 🚀 Roles & Leadership
-
-<p align="center">
-  <a href="https://techtics.in" target="_blank">
-    <img src="https://img.shields.io/badge/Techtics-Building%20Innovations-0dcaf0?style=for-the-badge&logo=vercel&logoColor=white" alt="Techtics" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/th-club" target="_blank">
-    <img src="https://img.shields.io/badge/Tech%20Horizons%20Club-Building%20Futures-9cf?style=for-the-badge&logo=github" alt="Tech Horizons Club" />
-  </a>
-</p>
-
-> **Director** – [Techtics](https://techtics.in) | ⏳ *Currently in launch phase* — [Join the waitlist](https://techtics.in)  
-> **Co-Founder** – [Tech Horizons Club](https://github.com/th-club) | *A community where technology meets imagination. Join the journey, build the future.*
-
-
-
-
 
 ## 🧠 Tech Stack
 
