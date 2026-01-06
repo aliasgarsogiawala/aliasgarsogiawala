@@ -37,8 +37,8 @@
 - 💡 Exploring **The World of OPEN SOURCE**  
 - 🛠 Building cool projects, one at a time
 - 🏆 <a href="https://paradocc.vercel.app" target="_blank"><strong>1x Hackathon Winner</strong></a>  
-- 💬 Always down to talk tech, startups, and creative ideas
-- 🌐 **Major Websites Built**:
+- 💬 Always down to talk tech, startups, and creative ideas 
+<!-- - 🌐 **Major Websites Built**:
   <p align="center">
   <a href="https://zillionite.com/">
     <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/Circular-Logo.png" alt="Zillionite" width="80" height="80" />
@@ -51,7 +51,7 @@
   <a href="https://techhorizonsclub.com/">
     <img src="https://github.com/aliasgarsogiawala/aliasgarsogiawala/blob/main/enhanced_logo.png" alt="Tech Horizons Club" width="80" height="80" />
   </a>
-</p>
+</p> -->
 
 
 ## 🔗 Connect with Me
