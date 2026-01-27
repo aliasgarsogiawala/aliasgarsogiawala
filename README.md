@@ -1,6 +1,6 @@
 <h1 align="center">🌐 Hi, I'm Aliasgar Sogiawala</h1>
 <div align="center">
-  <a href="https://aliasgar.vercel.app">
+  <a href="https://aliasgar.xyz">
     <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Visit Portfolio" />
   </a>
 </div>
@@ -11,7 +11,7 @@
 </p>
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffca38&center=true&width=1000&lines=Crafting+the+future,+one+commit+at+a+time." alt="Typing SVG" />
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aliasgarsogiawala&color=blue" alt="Visitor Count"/>
-</p>
+</p> -->
 
 <div align="center">
 
