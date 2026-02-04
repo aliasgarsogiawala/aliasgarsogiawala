@@ -81,13 +81,6 @@
 -->
 
 
-## 📊 GitHub Stats
-
-
-![Aliasgar's Stats](https://github-readme-stats.vercel.app/api?username=aliasgarsogiawala&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true&show=reviews,prs_merged&title_color=FFAE42&ring_color=FFAE42) 
-
-
-
 <!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark-dimmed&custom_title=Aliasgar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- ## 🛠️ Widgets I built
