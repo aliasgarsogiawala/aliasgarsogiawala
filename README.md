@@ -74,11 +74,30 @@
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673ab7?style=for-the-badge&logo=hostinger&logoColor=white) |
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliasgarsogiawala&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliasgarsogiawala&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliasgarsogiawala&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasgarsogiawala&theme=tokyonight" />
+</p>
+
+<hr>
+
+
 <!--
 ## LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aliasgarsogiawala)](https://leetcode.com/aliasgarsogiawala)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aliasgarsogiawala)](https://leetcode.com/aliasgarsogiawala) 
 -->
+
 
 
 <!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliasgarsogiawala&theme=github-dark-dimmed&custom_title=Aliasgar%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
