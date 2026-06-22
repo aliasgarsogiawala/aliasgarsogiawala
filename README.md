@@ -28,7 +28,6 @@
 
 ## 📌 Currently
 
-- 🎓 **BSc IT Student**  
 - 💡 Exploring **The World of OPEN SOURCE**  
 - 🛠 Building cool projects, one at a time
 - 🏆 <a href="https://paradocc.vercel.app" target="_blank"><strong>1x Hackathon Winner</strong></a>  
