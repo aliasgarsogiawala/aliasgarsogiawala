@@ -58,6 +58,8 @@
   <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+## Latest Listen
+[![Spotify](https://novatoremm-he9e.vercel.app/api/orchestrator)](https://novatoremm-he9e.vercel.app/redirect)
 
 ## 🧠 Tech Stack
 
