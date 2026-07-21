@@ -74,7 +74,7 @@
 | **Others** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) |
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673ab7?style=for-the-badge&logo=hostinger&logoColor=white) |
 
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -91,7 +91,7 @@
 </p>
 
 <hr>
-
+-->
 
 <!--
 ## LeetCode Stats
