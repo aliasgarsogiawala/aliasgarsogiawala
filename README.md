@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="./developers-odyssey-hero.png" alt="The Developer's Odyssey — Aliasgar Sogiawala" width="100%" />
+
 <h3>𓆩 ⚔ 𓆪</h3>
 
-# 𝕿𝖍𝖊 𝕮𝖔𝖉𝖊𝖝 𝖔𝖋 𝕬𝖑𝖎𝖆𝖘𝖌𝖆𝖗 𝕾𝖔𝖌𝖎𝖆𝖜𝖆𝖑𝖆
+# 𝕿𝖍𝖊 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗'𝖘 𝕺𝖉𝖞𝖘𝖘𝖊𝖞
+
+### *The Chronicle of Aliasgar Sogiawala*
 
 ### Knight of the Open Source Realm · Forger of Digital Kingdoms
 
@@ -21,7 +25,7 @@
 
 </div>
 
-## 🏰 A Proclamation from the Keep
+<img src="./quest-cobblestone.svg" alt="Quest I — The Cobblestone Chronicle" width="100%" />
 
 Hark! I am **Aliasgar Sogiawala**—a craftsman of the web, seeker of curious ideas, and builder of digital realms. Herein lies a record of the tools I wield, the quests I pursue, and the roads by which fellow travellers may find me.
 
@@ -36,7 +40,7 @@ Hark! I am **Aliasgar Sogiawala**—a craftsman of the web, seeker of curious id
 
 </div>
 
-## 🕊️ Send Forth a Raven
+<img src="./raven-tower.svg" alt="Quest II — The Raven Tower" width="100%" />
 
 <p align="center">
   <a href="mailto:itsaliasgar18@gmail.com"><img src="https://img.shields.io/badge/Scroll_by_Email-7B2D26?style=for-the-badge&logo=gmail&logoColor=F5E6C8" alt="Email" /></a>
@@ -46,7 +50,7 @@ Hark! I am **Aliasgar Sogiawala**—a craftsman of the web, seeker of curious id
   <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium_Manuscripts-292421?style=for-the-badge&logo=medium&logoColor=F5E6C8" alt="Medium" /></a>
 </p>
 
-## 🎻 The Minstrel’s Latest Tune
+<img src="./minstrels-rest.svg" alt="Interlude — The Minstrel's Rest" width="100%" />
 
 <div align="center">
 
@@ -54,7 +58,7 @@ Hark! I am **Aliasgar Sogiawala**—a craftsman of the web, seeker of curious id
 
 </div>
 
-## ⚔️ The Royal Armoury
+<img src="./obsidian-armoury.svg" alt="Quest III — The Obsidian Armoury" width="100%" />
 
 | Order of the Realm | Arms, Artifacts & Enchantments |
 |:--|:--|
@@ -64,7 +68,7 @@ Hark! I am **Aliasgar Sogiawala**—a craftsman of the web, seeker of curious id
 | **☁️ The Sky Citadel** | ![AWS](https://img.shields.io/badge/AWS-3B3024?style=for-the-badge&logo=amazonwebservices&logoColor=D7A84B) |
 | **🛡️ The Keepers of the Gate** | ![Clerk](https://img.shields.io/badge/Clerk-3B2F4A?style=for-the-badge&logo=clerk&logoColor=F5E6C8) ![Auth.js](https://img.shields.io/badge/Auth.js-394F5A?style=for-the-badge&logo=auth0&logoColor=F5E6C8) ![SuperTokens](https://img.shields.io/badge/SuperTokens-315B7D?style=for-the-badge&logo=supertokens&logoColor=F5E6C8) |
 | **🔮 The Seers of Data** | ![Pandas](https://img.shields.io/badge/Pandas-3B2F4A?style=for-the-badge&logo=pandas&logoColor=F5E6C8) ![NumPy](https://img.shields.io/badge/NumPy-394F5A?style=for-the-badge&logo=numpy&logoColor=F5E6C8) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315B7D?style=for-the-badge&logo=python&logoColor=F5E6C8) ![RStudio](https://img.shields.io/badge/RStudio-587B8D?style=for-the-badge&logo=rstudioide&logoColor=F5E6C8) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4F6F52?style=for-the-badge&logo=python&logoColor=F5E6C8) ![PyTorch](https://img.shields.io/badge/PyTorch-98473E?style=for-the-badge&logo=pytorch&logoColor=F5E6C8) |
-| **🎨 The Illuminators’ Atelier** | ![Figma](https://img.shields.io/badge/Figma-98473E?style=for-the-badge&logo=figma&logoColor=F5E6C8) ![Adobe](https://img.shields.io/badge/Adobe-7B2D26?style=for-the-badge&logo=adobe&logoColor=F5E6C8) ![Illustrator](https://img.shields.io/badge/Illustrator-B56B2A?style=for-the-badge&logo=adobeillustrator&logoColor=F5E6C8) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-292421?style=for-the-badge&logo=shadcnui&logoColor=F5E6C8) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-8B3A62?style=for-the-badge&logo=framer&logoColor=F5E6C8) ![Canva](https://img.shields.io/badge/Canva-3D6B67?style=for-the-badge&logo=canva&logoColor=F5E6C8) |
+| **🎨 The Illuminators’ Atelier** | ![Figma](https://img.shields.io/badge/Figma-98473E?style=for-the-badge&logo=figma&logoColor=F5E6C8) ![Adobe](https://img.shields.io/badge/Adobe-7B2D26?style=for-the-badge&logo=adobe&logoColor=F5E6C8) ![Illustrator](https://img.shields.io/badge/Illustrator-B56B2A?style=for-the-badge&logo=adobeillustrator&logoColor=F5E6C8) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-292421?style=for-the-badge&logo=shadcnui&logoColor=F5E6C8) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-8B3A62?style=for-the-badge&logo=framer&logoColor=F5E6C8) ![Canva](https://img.shields.io/badge/Canva-3D6B67?style=for-the-badge&logo=canva&logoColor=F5E6C8) |
 | **🧰 The Tinkerers’ Workshop** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-7B2D26?style=for-the-badge&logo=raspberrypi&logoColor=F5E6C8) ![Git](https://img.shields.io/badge/Git-98473E?style=for-the-badge&logo=git&logoColor=F5E6C8) ![GitHub](https://img.shields.io/badge/GitHub-292421?style=for-the-badge&logo=github&logoColor=F5E6C8) ![ESLint](https://img.shields.io/badge/ESLint-4B4E6D?style=for-the-badge&logo=eslint&logoColor=F5E6C8) |
 | **🚢 The Harbours of Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-292421?style=for-the-badge&logo=vercel&logoColor=F5E6C8) ![Hostinger](https://img.shields.io/badge/Hostinger-694F8E?style=for-the-badge&logo=hostinger&logoColor=F5E6C8) |
 
@@ -74,7 +78,7 @@ Hark! I am **Aliasgar Sogiawala**—a craftsman of the web, seeker of curious id
 
 </div>
 
-## 🪙 Patronage for the Realm
+<img src="./patrons-shrine.svg" alt="The Final Shrine — Patronage of the Realm" width="100%" />
 
 Should my craft have served or delighted thee, thou mayest provision the workshop with a humble draught:
 
