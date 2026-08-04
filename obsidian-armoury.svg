@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132">
+  <rect width="1200" height="132" fill="#08070d"/>
+  <g stroke="#241b35" stroke-width="7">
+    <path fill="#211a2a" d="M7 7h205v55H7zM219 7h274v55H219zM500 7h186v55H500zM693 7h292v55H693zM992 7h201v55H992z"/>
+    <path fill="#17131e" d="M7 69h278v56H7zM292 69h191v56H292zM490 69h323v56H490zM820 69h165v56H820zM992 69h201v56H992z"/>
+  </g>
+  <g fill="#5d3b77"><path d="M30 18l92 20-48 10zM318 78l91 14-61 16zM769 14l139 19-76 13zM1028 81l120 12-53 17z"/></g>
+  <rect x="154" y="18" width="892" height="96" fill="#160f20" stroke="#a777d0" stroke-width="5"/>
+  <rect x="166" y="30" width="868" height="72" fill="#09070d" stroke="#56356f" stroke-width="3"/>
+  <text x="600" y="65" fill="#b58bd7" font-family="Georgia,serif" font-size="20" font-weight="700" text-anchor="middle" letter-spacing="5">QUEST III</text>
+  <text x="600" y="91" fill="#f0dcff" font-family="Georgia,serif" font-size="30" font-weight="700" text-anchor="middle" letter-spacing="2">THE OBSIDIAN ARMOURY</text>
+  <g fill="#9d6cc5"><path d="M123 36l15 22-13 38-13-38z"/><path d="M1077 36l15 22-13 38-13-38z"/></g>
+</svg>

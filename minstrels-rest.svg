@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132">
+  <rect width="1200" height="132" fill="#24160f"/>
+  <g fill="#6f3f23"><rect x="8" y="8" width="1184" height="42"/><rect x="8" y="82" width="1184" height="42"/></g>
+  <g fill="#a56532"><rect x="24" y="17" width="170" height="9"/><rect x="225" y="32" width="204" height="8"/><rect x="764" y="17" width="260" height="9"/><rect x="51" y="92" width="244" height="8"/><rect x="852" y="106" width="231" height="8"/></g>
+  <g fill="#382116"><rect x="0" y="49" width="1200" height="33"/><path d="M104 0l25 132h28L132 0zM1042 0l-25 132h28l25-132z"/></g>
+  <rect x="154" y="18" width="892" height="96" fill="#7b4928" stroke="#d69b46" stroke-width="5"/>
+  <rect x="166" y="30" width="868" height="72" fill="#241710" stroke="#b56f32" stroke-width="3"/>
+  <text x="600" y="65" fill="#d29b3d" font-family="Georgia,serif" font-size="20" font-weight="700" text-anchor="middle" letter-spacing="5">INTERLUDE</text>
+  <text x="600" y="91" fill="#f5dfae" font-family="Georgia,serif" font-size="30" font-weight="700" text-anchor="middle" letter-spacing="2">THE MINSTREL'S REST</text>
+  <g fill="#d29b3d"><text x="124" y="82" font-size="43" font-family="serif" text-anchor="middle">♪</text><text x="1076" y="82" font-size="43" font-family="serif" text-anchor="middle">♫</text></g>
+</svg>

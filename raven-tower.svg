@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132">
+  <rect width="1200" height="132" fill="#281b13"/>
+  <g stroke="#5a3924" stroke-width="7" fill="#b6793d">
+    <path d="M7 7h228v55H7zM242 7h182v55H242zM431 7h318v55H431zM756 7h193v55H756zM956 7h237v55H956z"/>
+    <path fill="#956033" d="M7 69h162v56H7zM176 69h294v56H176zM477 69h203v56H477zM687 69h276v56H687zM970 69h223v56H970z"/>
+  </g>
+  <g fill="#d59a55"><rect x="19" y="17" width="76" height="8"/><rect x="254" y="17" width="55" height="8"/><rect x="443" y="17" width="120" height="8"/><rect x="188" y="79" width="107" height="8"/><rect x="699" y="79" width="84" height="8"/></g>
+  <rect x="154" y="18" width="892" height="96" fill="#382416" stroke="#e0b35d" stroke-width="5"/>
+  <rect x="166" y="30" width="868" height="72" fill="#1c1510" stroke="#9b6334" stroke-width="3"/>
+  <text x="600" y="65" fill="#d29b3d" font-family="Georgia,serif" font-size="20" font-weight="700" text-anchor="middle" letter-spacing="5">QUEST II</text>
+  <text x="600" y="91" fill="#f5dfae" font-family="Georgia,serif" font-size="30" font-weight="700" text-anchor="middle" letter-spacing="2">THE RAVEN TOWER</text>
+  <g fill="#17120f"><path d="M100 80l15-36 10 16 11-16 13 36-24-10z"/><path d="M1051 80l15-36 10 16 11-16 13 36-24-10z"/></g>
+</svg>
